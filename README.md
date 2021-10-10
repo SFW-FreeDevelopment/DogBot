@@ -5,7 +5,7 @@ Built with .NET Core 3.1 and Docker.
 
 ---
 
-Want to invite DocBot to your own Discord?
+Want to invite DogBot to your own Discord?
 
 [https://discord.com/oauth2/authorize?client_id=896828930798022657&scope=bot&permissions=534723951680](https://discord.com/oauth2/authorize?client_id=896828930798022657&scope=bot&permissions=534723951680)
 
