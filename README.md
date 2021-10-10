@@ -11,7 +11,7 @@ Want to invite DocBot to your own Discord?
 
 ---
 
-Want to pull the latest Docker image to host your own instance of DocBot?
+Want to pull the latest Docker image to host your own instance of DogBot?
 
 [https://hub.docker.com/r/sgarberg/dogbot](https://hub.docker.com/r/sgarberg/dogbot)
 
