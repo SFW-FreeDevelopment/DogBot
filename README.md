@@ -18,13 +18,13 @@ Want to pull the latest Docker image to host your own instance of DocBot?
 ## Commands
 | Command | Description |
 | ------------- | ------------- |
-| `docbot help` | Assists the user by displaying all commands |
-| `docbot ping` | Pings the Discord channel |
-| `docbot konami` | Displays the Konami code as emojis |
-| `docbot bark` | Barks in chat |
-| `docbot woof` | Woofs in chat |
-| `docbot fact` | Displays a random dog fact |
-| `docbot photo` | Displays a random dog photo |
+| `dogbot help` | Assists the user by displaying all commands |
+| `dogbot ping` | Pings the Discord channel |
+| `dogbot konami` | Displays the Konami code as emojis |
+| `dogbot bark` | Barks in chat |
+| `dogbot woof` | Woofs in chat |
+| `dogbot fact` | Displays a random dog fact |
+| `dogbot photo` | Displays a random dog photo |
 
 ---
 
