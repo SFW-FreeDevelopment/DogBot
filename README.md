@@ -1,6 +1,8 @@
 # DogBot
 A Discord bot to share pictures and facts related to dogs.
 
+Built with .NET Core 3.1 and Docker.
+
 ---
 
 Want to invite DocBot to your own Discord?
