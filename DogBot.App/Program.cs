@@ -63,6 +63,18 @@ namespace DogBot.App
             int argPos = 0;
             if (message.HasStringPrefix("dogbot ", ref argPos))
             {
+                await Execute();
+                return;
+            }
+            argPos = 0;
+            if (message.HasStringPrefix("<@896828930798022657> ", ref argPos))
+            {
+                await Execute();
+                return;
+            }
+
+            async Task Execute()
+            {
                 var result = await _commands.ExecuteAsync(context, argPos, _services);
                 if (!result.IsSuccess)
                     Console.WriteLine(result.ErrorReason);
